@@ -1,8 +1,7 @@
 <?php
 /************************************************************************
-Theme Name: Kotkoda
-Theme URI: http://wp.tutsplus.comDescription: This site was built using the Bones Development Theme.Author: Adam Burucs
-Author URI: http://burucs.comVersion: 1.0Tags: flexble-width, translation-ready, microformats, rtl-language-support License: GPL2License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Dedicated to:
+
 **************************************************************************/
 
  get_header(); ?>
